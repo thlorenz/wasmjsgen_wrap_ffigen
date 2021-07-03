@@ -1,3 +1,3 @@
 library wasmjsgen;
 
-export 'src/wasmjsgen_base.dart';
+export 'src/code_generator.dart';

@@ -8,8 +8,8 @@ analyzer:
 linter:
   rules:
     # Enabled.
-    directives_ordering: true
     prefer_final_locals: true
     prefer_final_in_for_each: true
     # Disabled.
+    directives_ordering: false
     constant_identifier_names: false
